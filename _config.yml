@@ -57,7 +57,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : &twitter
+  username               : #&twitter
 facebook:
   username               :
   app_id                 :
@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Cedrick"
-  avatar           : "profile.png"
+  avatar           : "Cedrick.jpg"
   bio              : "Postdoctoral Fellow in the School of Chemistry at the University of Leeds"
   location         : "Leeds, UK"
   employer         : "University of Leeds"
