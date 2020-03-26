@@ -12,3 +12,5 @@ Greetings!
 My name is Cedrick and I am a postdoctoral fellow at the University of Leeds.
 
 <img src="images/Thenardite_Bulk3M.jpg" alt="MacroThenardite" width="5"/>
+
+<img src="images/Cedrick.jpg" alt="Cedrick" width="5"/>
