@@ -11,4 +11,4 @@ Greetings!
 
 My name is Cedrick and I am a postdoctoral fellow at the University of Leeds.
 
-![text-1](/images/Cedrick.jpg)
+![text-1](/images/Thenardite_Bulk3M.tif)
