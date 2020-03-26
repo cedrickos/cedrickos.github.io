@@ -9,6 +9,18 @@ redirect_from:
 ---
 Greetings!
 
+.column {
+  float: left;
+  width: 25%;
+  padding: 5px;
+}
+
+.row::after {
+  content: "";
+  clear: both;
+  display: table;
+}
+
 <div class="row">
   <div class="column">
     <img src="images/Thenardite_Bulk3M.jpg" alt="MacroThenardite" width="200"/>
