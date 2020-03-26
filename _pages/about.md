@@ -9,23 +9,6 @@ redirect_from:
 ---
 Greetings!
 
-.column {
-  float: left;
-  width: 25%;
-  padding: 5px;
-}
 
-.row::after {
-  content: "";
-  clear: both;
-  display: table;
-}
-
-<div class="row">
-  <div class="column">
-    <img src="images/Thenardite_Bulk3M.jpg" alt="MacroThenardite" width="200"/>
-  </div>
-  <div class="column">
-    My name is Cedrick and I am a postdoctoral fellow in the School of Chemistry at the University of Leeds. I work in Prof. Fiona Meldrum's laboratory and I am part of the Crystallisation in the Real World consortium.
-  </div>
-</div>
+<img style="float: right;" src="images/Thenardite_Bulk3M.jpg" alt="MacroThenardite" width="200"/>
+My name is Cedrick and I am a postdoctoral fellow in the School of Chemistry at the University of Leeds. I work in Prof. Fiona Meldrum's laboratory and I am part of the Crystallisation in the Real World consortium.
