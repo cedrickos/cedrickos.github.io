@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Cedrick O'Shaughnessy's Website"
+title: "About me"
 excerpt: "About me"
 author_profile: true
 redirect_from:
@@ -9,8 +9,6 @@ redirect_from:
 ---
 Greetings!
 
-My name is Cedrick and I am a postdoctoral fellow at the University of Leeds.
+My name is Cedrick and I am a postdoctoral fellow in the School of Chemistry at the University of Leeds. I work in Prof. Fiona Meldrum's laboratory and I am part of the Crystallisation in the Real World consortium.
 
 <img src="images/Thenardite_Bulk3M.jpg" alt="MacroThenardite" width="200"/>
-
-<img src="images/Cedrick.jpg" alt="Cedrick" width="200"/>
