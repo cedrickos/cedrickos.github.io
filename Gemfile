@@ -16,10 +16,10 @@ gem "github-pages", group: :jekyll_plugins
 
 # gem "jekyll"
 
+gem "minimal-mistakes-jekyll"
+
 gem "wdm", "~> 0.1.0" if Gem.win_platform?
 
-theme: minimal-mistakes-jekyll
-minimal_mistakes_skin: "dark"
 # If you have any plugins, put them here!
 group :jekyll_plugins do
   # gem "jekyll-archives"
