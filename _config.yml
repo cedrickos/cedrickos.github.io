@@ -6,8 +6,6 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-theme: minimal-mistakes-jekyll
-minimal_mistakes_skin: "dark"
 locale                   : "en-US"
 title                    : "Cedrick O'Shaughnessy"
 title_separator          : "-"
@@ -257,12 +255,13 @@ sass:
 permalink: /:categories/:title/
 # paginate: 5 # amount of posts to show
 # paginate_path: /page:num/
-timezone: America/Los_Angeles # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone: Europe/London # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 
 # Plugins
 plugins:
   - jekyll-paginate
+  - jekyll-include-cache
   - jekyll-sitemap
   - jekyll-gist
   - jekyll-feed
