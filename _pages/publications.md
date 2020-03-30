@@ -12,6 +12,10 @@ You can also find my articles on:
 {% endif %}
 
 {% if author.researchgate %}
+ <li><a href="{{ author.researchgate }}"><i class="fab fa-fw fa-researchgate" aria-hidden="true"></i> ResearchGate</a></li>
+{% endif %}
+
+{% if author.researchgate %}
   <u><a href="{{author.researchgate}}">my ResearchGate profile</a>.</u>
 {% endif %}
 
