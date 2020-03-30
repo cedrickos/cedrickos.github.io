@@ -21,12 +21,17 @@ You can also find my articles on:
 <ul class="a">
   <li>
     {% if author.googlescholar %}
-      <a href="{{author.googlescholar}}">Google Scholar</a>.
+      <a href="{{author.googlescholar}}">Google Scholar</a>
     {% endif %}
   </li>
   <li>
     {% if author.researchgate %}
-      <a href="{{author.researchgate}}">ResearchGate</a>.
+      <a href="{{author.researchgate}}">ResearchGate</a>
+    {% endif %}
+  </li>
+  <li>
+    {% if author.orcid %}
+      <a href="{{author.orcid}}">ORCID</a>
     {% endif %}
   </li>
 </ul>
