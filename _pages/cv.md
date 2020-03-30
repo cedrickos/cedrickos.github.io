@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-See the <a href="/files/OShaughnessyCV_2020-03-30">PDF version</a>
+See the <a href="/files/OShaughnessyCV_2020-03-30.pdf">PDF version</a>
 
 Education
 ======
