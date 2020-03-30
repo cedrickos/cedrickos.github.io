@@ -7,4 +7,3 @@ venue: 'American Mineralogist'
 paperurl: 'http://dx.doi.org/10.2138/am-2015-4779'
 citation: ' W. Su,  D.R. Baker,  L. Pu,  L. Bai,  X. Liu,  C. O&apos;Shaughnessy, &quot;Chlorine-hydroxyl diffusion in pargasitic amphibole.&quot; American Mineralogist, 2015.'
 ---
-[Access paper here](http://dx.doi.org/10.2138/am-2015-4779){:target="_blank"}
