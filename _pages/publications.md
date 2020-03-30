@@ -5,8 +5,18 @@ permalink: /publications/
 author_profile: true
 ---
 
+You can also find my articles on:
+
 {% if author.googlescholar %}
-  You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
+  <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
+{% endif %}
+
+{% if author.researchgate %}
+  <u><a href="{{author.researchgate}}">my ResearchGate profile</a>.</u>
+{% endif %}
+
+{% if author.orcid %}
+  <u><a href="{{author.orcid}}">my ORCid profile</a>.</u>
 {% endif %}
 
 {% include base_path %}
