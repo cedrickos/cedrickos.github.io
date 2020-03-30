@@ -9,6 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
+See the <a href="/files/OShaughnessyCV_2020-03-30">PDF version</a>
+
 Education
 ======
 * Ph.D in Earth Sciences, University of Toronto, 2019
