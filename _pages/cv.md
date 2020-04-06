@@ -31,13 +31,15 @@ Work experience
 
 Skills
 ======
-* Spectroscopy
+* Spectroscopy/Imaging
   * Raman spectroscopy
   * X-ray absorption spectroscopy
   * X-ray Raman spectroscopy
+  * X-ray tomographic microscopy
+  * Scanning electron microscopy
 * Material synthesis
   * Piston-cylinder apparatus (hydrated materials)
-  * Melt-Quench furnace (vitreous materials)  
+  * Melt-Quench furnace (vitreous materials)
 * Programming
   * Python
   * C
