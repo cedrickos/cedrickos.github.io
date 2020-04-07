@@ -1,5 +1,4 @@
 ---
-layout: jupy
 permalink: /jupyter/
 author_profile: true
 ---
