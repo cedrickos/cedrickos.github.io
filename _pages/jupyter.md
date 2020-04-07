@@ -3,17 +3,12 @@ title: Introduction to Jupyter Notebook
 permalink: /jupyter/
 author_profile: true
 ---
-<style type="text/css">
-code.r{
-  font-size: 20px;
-}
-</style>
 
 In code cells you can write standard Python:
 
 
 
-```{r python}
+```{python, size = large}
 import math
 import csv
 ```
