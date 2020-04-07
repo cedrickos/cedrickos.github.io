@@ -1,4 +1,5 @@
 ---
+title: Introduction to Jupyter Notebook
 permalink: /jupyter/
 author_profile: true
 ---
@@ -14,10 +15,8 @@ import csv
 
 
 ```python
-<font size = "10">
 x = 4*math.pi
 math.sqrt(2**x)
-</font>
 ```
 
 
