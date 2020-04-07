@@ -21,13 +21,6 @@ x = 4*math.pi
 math.sqrt(2**x)
 ```
 
-
-
-
-    77.8802336483881
-
-
-
 ## Cell Types
 
 In these cells you can use:
