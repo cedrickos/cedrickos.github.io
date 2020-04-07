@@ -1,7 +1,7 @@
 ---
 layout: jupy
 permalink: /jupyter/
-author_profile: false
+author_profile: true
 ---
 
 ## Introduction to Jupyter Notebook
