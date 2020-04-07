@@ -14,11 +14,12 @@ import math
 import csv
 ```
 
-
-##```python
+<font size = "10">
+```python
 x = 4*math.pi
 math.sqrt(2**x)
 ```
+</font>
 
 ## Cell Types
 
