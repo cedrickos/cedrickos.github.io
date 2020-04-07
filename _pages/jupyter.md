@@ -8,7 +8,7 @@ In code cells you can write standard Python:
 
 
 
-```{python, size = large}
+```python
 import math
 import csv
 ```
