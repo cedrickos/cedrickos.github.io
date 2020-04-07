@@ -3,8 +3,6 @@ permalink: /jupyter/
 author_profile: true
 ---
 
-## Introduction to Jupyter Notebook
-
 In code cells you can write standard Python:
 
 
@@ -14,12 +12,14 @@ import math
 import csv
 ```
 
-<font size = "10">
+
 ```python
+<font size = "10">
 x = 4*math.pi
 math.sqrt(2**x)
-```
 </font>
+```
+
 
 ## Cell Types
 
