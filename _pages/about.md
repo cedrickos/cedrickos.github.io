@@ -35,6 +35,6 @@ redirect_from:
     width="200"
     class="float-img-l"/>
   Greetings!<br style="line-height:20px">
-  My name is Cedrick and I am a postdoctoral fellow in the School of Chemistry at the University of Leeds. I work in Prof. Fiona Meldrum's laboratory and I am part of the Crystallisation in the Real World consortium. I am currently interested in many different aspects of crystallisation including: confinement, surface induced and nucleants.
+  My name is Cedrick and I am a postdoctoral fellow in the School of Chemistry at the University of Leeds. I work in <a href="http://www1.chem.leeds.ac.uk/FCM/">Prof. Fiona Meldrum's laboratory</a> and I am part of the <a href="https://realworldcrystals.leeds.ac.uk/">Crystallisation in the Real World</a> consortium. I am currently interested in many different aspects of crystallisation including: confinement, surface induced and nucleants.
   </div>
 </div>
