@@ -23,8 +23,6 @@ redirect_from:
 }
 .float-img-l {
   float: left;
-  border: solid hsl(207, 6%, 30%) 2px;
-  padding: 2px;
   margin-right: 10px;
   margin-bottom: 5px;
 }
