@@ -20,7 +20,7 @@ Education
 Work experience
 ======
 * Postdoctoral Fellow (Jan 2020 - Present)
-  * Department of Chemistry
+  * School of Chemistry
   * University of Leeds, UK
   * Adviser: Prof. Fiona Meldrum
 
