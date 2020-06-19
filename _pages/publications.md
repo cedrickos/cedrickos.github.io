@@ -37,5 +37,5 @@ You can also find my articles on:
 </ul>
 
 {% for post in site.publications reversed %}
-  {% include archive-single.html %}
+  {% include archive-single-pub.html %}
 {% endfor %}
