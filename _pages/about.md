@@ -26,6 +26,11 @@ redirect_from:
   margin-right: 10px;
   margin-bottom: 5px;
 }
+.float-img-r {
+  float: right;
+  margin-left: 10px;
+  margin-bottom: 5px;
+}
 </style>
 <div class="grid-container">
   <div class="grid-item">
