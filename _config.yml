@@ -93,7 +93,7 @@ author:
   location         : "Leeds, UK"
   employer         : "University of Leeds"
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://https://scholar.google.com/citations?user=qenFcPQAAAAJ&hl=en"
+  googlescholar    : "https://scholar.google.com/citations?user=qenFcPQAAAAJ&hl=en"
   email            : "c.oshaughnessy [at] leeds [dot] ac [dot] uk"
   researchgate     : "https://www.researchgate.net/profile/Cedrick_Oshaughnessy"
   uri              :
@@ -116,7 +116,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : #"replacethistwitterhandle"
+  twitter          : thecedrick 
   vine             :
   weibo            :
   xing             :
