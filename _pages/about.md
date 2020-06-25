@@ -43,7 +43,7 @@ redirect_from:
   <div class="grid-item">
   <img src="/images/TOC-Schematic.png" alt="schematic"
     width="200"
-    class="float-img-l"/>
+    class="float-img-r"/>
   News!<br style="line-height:20px">
   Fiona and I have published a review paper on Crystallisation in confinement in Advanced Materials. It encompasses a wide variety of topics from biomineralization to crystallisation in porous media. Check it out at: <a href="https://doi.org/10.1002/adma.202001068">Meldrum & O'Shaughnessy (2020)</a>.
   </div>
