@@ -38,6 +38,6 @@ redirect_from:
     width="200"
     class="float-img-l"/>
   <font size="+2">Greetings!</font> <br style="line-height:20px">
-  My name is Cedrick and I am a Reseach Scientist at Corning Inc. I previously worked as a Postdoctoral Fellow in <a href="http://www1.chem.leeds.ac.uk/FCM/">Prof. Fiona Meldrum's laboratory</a> at the University of Leeds where I was part of the <a href="https://realworldcrystals.leeds.ac.uk/">Crystallisation in the Real World</a> consortium. My research interests include glass, glass-ceramics, crystallisation/nucleation, and spectroscopy.
+  My name is Cedrick and I am a Reseach Scientist at <a href="https://www.corning.com/worldwide/en.html">Corning Inc.</a> I previously worked as a Postdoctoral Fellow in <a href="http://www1.chem.leeds.ac.uk/FCM/">Prof. Fiona Meldrum's laboratory</a> at the University of Leeds where I was part of the <a href="https://realworldcrystals.leeds.ac.uk/">Crystallisation in the Real World</a> consortium. My research interests include glass, glass-ceramics, crystallisation/nucleation, and spectroscopy.
     </div>
 </div>
